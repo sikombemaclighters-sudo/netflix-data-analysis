@@ -1,4 +1,5 @@
-# netflix-data-analysis
+# Netflix Data Analysis
+
 This project explores trends in the Netflix catalog using Python.
 
 ## Tools Used
